@@ -32,3 +32,4 @@ public enum Hash {
         return hash;
     }
 }
+
