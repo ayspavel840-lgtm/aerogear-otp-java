@@ -45,3 +45,4 @@ This API is compatible with Google Authenticator apps available for [Android](ht
 
 For more details, please refer to our [documentation](http://aerogear.org/docs/specs/aerogear-security-otp/)
 
+
