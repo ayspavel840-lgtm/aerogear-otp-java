@@ -40,3 +40,4 @@ public class Clock {
         return currentTimeSeconds / interval;
     }
 }
+
