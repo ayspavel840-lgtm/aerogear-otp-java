@@ -174,3 +174,4 @@ public class Base32 {
         return encode(secretKey);
     }
 }
+
